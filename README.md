@@ -1,4 +1,4 @@
-xxxxx/
+trading-app-811/
 │
 ├── main.py                  # Entry point
 ├── requirements.txt         # Python dependencies
@@ -24,8 +24,8 @@ xxxxx/
     └── app.log
 
 INSTALLATION
-git clone https://github.com/yourusername/xxxxx.git
-cd xxxxx
+git clone https://github.com/yourusername/trading-app-811.git
+cd trading-app-811
 
 VIRTUAL ENVIRONMENT
 python -m venv venv
